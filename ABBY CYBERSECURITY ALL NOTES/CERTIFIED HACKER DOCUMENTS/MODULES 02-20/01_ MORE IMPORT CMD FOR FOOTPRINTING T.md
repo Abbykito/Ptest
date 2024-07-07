@@ -1,10 +1,7 @@
 ---
 title: '01: MORE IMPORT CMD FOR FOOTPRINTING T'
-updated: 2024-07-06 02:27:12Z
-created: 2024-06-23 00:19:15Z
-latitude: -1.29206590
-longitude: 36.82194620
-altitude: 0.0000
+````
+`````
 ---
 
 # 01: MORE IMPORT CMD FOR FOOTPRINTING T
